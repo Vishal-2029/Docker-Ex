@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "vite": "^6.2.0"
+  }
+}
