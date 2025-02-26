@@ -1,8 +1,8 @@
-﻿# Order-form
-#It's a Order-form API. In this API i Create a Frontend and backend side.
+﻿# Docker-Ex
+#Containerize the application that you build in Golang and Vue with database service.
 
-#The Frontend side, Over form code is place in "frontend/src/components/Form.vue".
+#In this API i have use my old API "Order-Form API".
 
-#First run backend : go run main.go , Then Run other cmd Frontend : npm run serve 
+#By using a Docker, In Backend & Frontend i create a docker file and also use in docker compose. 
 
-#After Runing the code when click the submit button then over data is store in a database. this data is store by a golang. also show on consol when data is submitted.
+#This API is run in Docker and when the Order-form is submitted then the data is store in mysql databse using a docker compose.
