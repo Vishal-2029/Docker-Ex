@@ -7,4 +7,4 @@
 
 #This API is run in Docker and when the Order-form is submitted then the data is store in mysql databse using a docker compose.
 
-#run command : docke-compose up 
+#run command : docker-compose up 
